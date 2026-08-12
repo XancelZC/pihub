@@ -40,12 +40,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 安装指南
               </Link>
               <a
-                href="https://github.com"
+                href="https://github.com/XancelZC/pihub"
                 target="_blank"
                 rel="noreferrer"
                 className="ml-2 rounded-lg bg-ink px-3 py-1.5 text-white hover:bg-inkSoft"
               >
-                GitHub
+                <Icon name="Github" className="mr-1.5 inline h-4 w-4" /> GitHub
               </a>
             </nav>
           </div>
