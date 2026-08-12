@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection {
+  background: #c9d4e0;
+}
+
+/* pi.dev 风格：暖白纸感背景 + 低饱和文字 */
+body {
+  background-color: #f4f2ef;
+  color: #1c1917;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 全局链接默认色 */
+a {
+  color: inherit;
+}
+
+/* 细滚动条（命令区/README 区） */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #d6d0c9;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c2bbb2;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}

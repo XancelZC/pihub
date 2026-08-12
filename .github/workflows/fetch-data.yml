@@ -1,0 +1,37 @@
+name: 每日更新插件数据
+
+on:
+  schedule:
+    - cron: "17 2 * * *" # 每天 02:17 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: 抓取插件数据
+        run: npm run fetch:data
+
+      - name: 提交变更
+        run: |
+          git config user.name "pihub-bot"
+          git config user.email "bot@pihub.local"
+          git add data/plugins.json
+          if git diff --cached --quiet; then
+            echo "无变更"
+          else
+            git commit -m "chore: 更新插件数据 ($(date +%F))"
+            git push
+          fi

@@ -1,0 +1,152 @@
+{
+  "categories": [
+    {
+      "id": "essential",
+      "name": "基础必备",
+      "icon": "Boxes",
+      "desc": "不管你是谁，装上这些能让 pi 立刻更好用。",
+      "items": [
+        {
+          "id": "pi-web-access",
+          "why": "联网搜索、抓网页、读 PDF/YouTube，AI 最重要的能力补充"
+        },
+        {
+          "id": "pi-mcp-adapter",
+          "why": "接入 MCP 生态，复用海量现成工具（数据库/浏览器/API）"
+        },
+        {
+          "id": "pi-powerline-footer",
+          "why": "Powerline 风格状态栏，一眼看清上下文/费用/模型"
+        },
+        {
+          "id": "@gotgenes/pi-permission-system",
+          "why": "权限控制，防止 AI 乱执行危险命令"
+        }
+      ]
+    },
+    {
+      "id": "coding",
+      "name": "写代码",
+      "icon": "Puzzle",
+      "desc": "写码、重构、审查时的得力助手。",
+      "items": [
+        {
+          "id": "pi-lens",
+          "why": "LSP + lint + 格式化 + 类型检查，实时代码反馈"
+        },
+        {
+          "id": "@narumitw/pi-lsp",
+          "why": "语言无关的 LSP 工具，深度代码理解"
+        },
+        {
+          "id": "pi-simplify",
+          "why": "自动审查最近改动，提出简化建议"
+        },
+        {
+          "id": "context-mode",
+          "why": "节省 98% 上下文窗口，长项目必备"
+        }
+      ]
+    },
+    {
+      "id": "memory",
+      "name": "记忆 / 上下文",
+      "icon": "Brain",
+      "desc": "跨会话记忆、长上下文管理。",
+      "items": [
+        {
+          "id": "pi-hermes-memory",
+          "why": "持久记忆 + 会话搜索 + 密钥扫描"
+        },
+        {
+          "id": "@ff-labs/pi-fff",
+          "why": "模糊文件与内容搜索"
+        },
+        {
+          "id": "pi-smart-compact",
+          "why": "智能压缩上下文，长会话不爆窗"
+        }
+      ]
+    },
+    {
+      "id": "agents",
+      "name": "多代理 / 子代理",
+      "icon": "Network",
+      "desc": "让 pi 同时跑多个角色并行干活。",
+      "items": [
+        {
+          "id": "pi-subagents",
+          "why": "单代理委派 + 脚本化多代理工作流"
+        },
+        {
+          "id": "pi-background-tasks",
+          "why": "持久后台任务，只读委派代理"
+        },
+        {
+          "id": "pi-interactive-shell",
+          "why": "自主控制交互式 shell"
+        }
+      ]
+    },
+    {
+      "id": "ui",
+      "name": "界面 / 交互",
+      "icon": "Palette",
+      "desc": "更好看的界面和更顺手的交互。",
+      "items": [
+        {
+          "id": "@juicesharp/rpiv-ask-user-question",
+          "why": "结构化提问，AI 不乱猜"
+        },
+        {
+          "id": "@juicesharp/rpiv-todo",
+          "why": "实时任务清单悬浮层"
+        }
+      ]
+    },
+    {
+      "id": "security",
+      "name": "安全 / 权限",
+      "icon": "Shield",
+      "desc": "保护你的系统不被 AI 误操作。",
+      "items": [
+        {
+          "id": "@gotgenes/pi-permission-system",
+          "why": "权限强制"
+        },
+        {
+          "id": "pi-landstrip",
+          "why": "沙箱化 Bash 执行"
+        }
+      ]
+    },
+    {
+      "id": "workflow",
+      "name": "计划 / 流程",
+      "icon": "ClipboardList",
+      "desc": "计划模式、目标管理、工作流编排。",
+      "items": [
+        {
+          "id": "@narumitw/pi-plan-mode",
+          "why": "Codex 风格只读计划模式"
+        },
+        {
+          "id": "pi-goal",
+          "why": "自主目标完成"
+        }
+      ]
+    },
+    {
+      "id": "voice",
+      "name": "语音",
+      "icon": "Mic",
+      "desc": "语音输入，解放双手。",
+      "items": [
+        {
+          "id": "@juicesharp/rpiv-voice",
+          "why": "本地设备端语音听写"
+        }
+      ]
+    }
+  ]
+}
