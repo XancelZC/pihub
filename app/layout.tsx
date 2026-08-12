@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Link from "next/link";
 import Icon from "@/components/Icon";
+import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
   title: "PiHub · Pi 插件集市",
@@ -51,6 +52,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </div>
         </header>
         <main className="mx-auto max-w-6xl px-4 py-8">{children}</main>
+        <Analytics />
         <footer className="border-t border-line py-8 text-center text-sm text-inkMute">
           <p>
             PiHub — 非官方社区项目，与 pi coding agent 无关。数据来自 pi.dev / npm / GitHub，每日自动更新。
