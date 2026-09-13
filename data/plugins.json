@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-12T07:09:29.738Z",
-  "count": 254,
+  "generatedAt": "2026-09-13T07:28:08.551Z",
+  "count": 257,
   "plugins": [
     {
       "id": "pi-mcp-adapter",
@@ -17,7 +17,7 @@
       "author": "nicopreme",
       "homepage": "https://github.com/nicobailon/pi-mcp-adapter#readme",
       "repository": "https://github.com/nicobailon/pi-mcp-adapter.git",
-      "updatedAt": "2026-09-12",
+      "updatedAt": "2026-09-13",
       "keywords": [
         "pi-package",
         "pi",
@@ -30,7 +30,7 @@
         "llm"
       ],
       "verified": true,
-      "stars": 1454
+      "stars": 1455
     },
     {
       "id": "pi-web-access",
@@ -47,7 +47,7 @@
       "author": "nicopreme",
       "homepage": "https://github.com/nicobailon/pi-web-access#readme",
       "repository": "https://github.com/nicobailon/pi-web-access.git",
-      "updatedAt": "2026-09-12",
+      "updatedAt": "2026-09-13",
       "keywords": [
         "pi-package",
         "pi",
@@ -63,7 +63,7 @@
         "scraping"
       ],
       "verified": true,
-      "stars": 1421
+      "stars": 1427
     },
     {
       "id": "github:nicobailon/pi-messenger",
@@ -152,7 +152,7 @@
         "automation"
       ],
       "verified": true,
-      "stars": 546
+      "stars": 551
     },
     {
       "id": "github:nicobailon/pi-intercom",
@@ -168,8 +168,8 @@
       "author": "nicobailon",
       "homepage": "https://github.com/nicobailon/pi-intercom",
       "repository": "https://github.com/nicobailon/pi-intercom",
-      "stars": 509,
-      "updatedAt": "2026-09-11",
+      "stars": 510,
+      "updatedAt": "2026-09-13",
       "keywords": [],
       "verified": true
     },
@@ -308,7 +308,7 @@
         "optimization"
       ],
       "verified": true,
-      "stars": 264
+      "stars": 265
     },
     {
       "id": "github:championswimmer/pi-context-prune",
@@ -324,8 +324,8 @@
       "author": "championswimmer",
       "homepage": "https://github.com/championswimmer/pi-context-prune",
       "repository": "https://github.com/championswimmer/pi-context-prune",
-      "stars": 237,
-      "updatedAt": "2026-09-12",
+      "stars": 238,
+      "updatedAt": "2026-09-13",
       "keywords": [],
       "verified": true
     },
@@ -370,6 +370,39 @@
       "stars": 172,
       "updatedAt": "2026-09-10",
       "keywords": [],
+      "verified": true
+    },
+    {
+      "id": "github:xiaomoBoy/pi-bluebook",
+      "name": "xiaomoBoy/pi-bluebook",
+      "description": "Pi Coding Agent 中文学习蓝皮书：从安装与第一个可验收任务开始，逐步掌握 Session、Context、Skill、Extension、Subagent 与长期 Agent 工作流。",
+      "type": "extension",
+      "source": "xiaomoBoy/pi-bluebook",
+      "sourceKind": "github",
+      "installCommand": "pi install git:xiaomoBoy/pi-bluebook",
+      "categories": [
+        "subagents",
+        "memory"
+      ],
+      "author": "xiaomoBoy",
+      "homepage": "https://pi.xiaomovps.com",
+      "repository": "https://github.com/xiaomoBoy/pi-bluebook",
+      "stars": 163,
+      "updatedAt": "2026-09-13",
+      "keywords": [
+        "agent-harness",
+        "agent-skills",
+        "ai-agent",
+        "chinese",
+        "coding-agent",
+        "context-engineering",
+        "learning-path",
+        "pi",
+        "pi-agent",
+        "pi-coding-agent",
+        "tutorial",
+        "vitepress"
+      ],
       "verified": true
     },
     {
@@ -541,42 +574,9 @@
       "author": "BubblePtr",
       "homepage": "https://awesome-pi-list.vercel.app",
       "repository": "https://github.com/BubblePtr/awesome-pi",
-      "stars": 117,
-      "updatedAt": "2026-09-11",
+      "stars": 119,
+      "updatedAt": "2026-09-13",
       "keywords": [],
-      "verified": true
-    },
-    {
-      "id": "github:xiaomoBoy/pi-bluebook",
-      "name": "xiaomoBoy/pi-bluebook",
-      "description": "Pi Coding Agent 中文学习蓝皮书：从安装与第一个可验收任务开始，逐步掌握 Session、Context、Skill、Extension、Subagent 与长期 Agent 工作流。",
-      "type": "extension",
-      "source": "xiaomoBoy/pi-bluebook",
-      "sourceKind": "github",
-      "installCommand": "pi install git:xiaomoBoy/pi-bluebook",
-      "categories": [
-        "subagents",
-        "memory"
-      ],
-      "author": "xiaomoBoy",
-      "homepage": "https://pi.xiaomovps.com",
-      "repository": "https://github.com/xiaomoBoy/pi-bluebook",
-      "stars": 115,
-      "updatedAt": "2026-09-12",
-      "keywords": [
-        "agent-harness",
-        "agent-skills",
-        "ai-agent",
-        "chinese",
-        "coding-agent",
-        "context-engineering",
-        "learning-path",
-        "pi",
-        "pi-agent",
-        "pi-coding-agent",
-        "tutorial",
-        "vitepress"
-      ],
       "verified": true
     },
     {
@@ -593,7 +593,7 @@
       "author": "luongnv89",
       "homepage": "https://github.com/luongnv89/pi-extensions",
       "repository": "https://github.com/luongnv89/pi-extensions",
-      "stars": 113,
+      "stars": 115,
       "updatedAt": "2026-09-12",
       "keywords": [],
       "verified": true
@@ -612,8 +612,8 @@
       "author": "arpagon",
       "homepage": "https://arpagon.github.io/pi-rewind",
       "repository": "https://github.com/arpagon/pi-rewind",
-      "stars": 112,
-      "updatedAt": "2026-09-10",
+      "stars": 111,
+      "updatedAt": "2026-09-12",
       "keywords": [
         "checkpoint",
         "coding-agent",
@@ -1695,35 +1695,6 @@
       "verified": true
     },
     {
-      "id": "@bacnh85/pi-deepseek-tools",
-      "name": "@bacnh85/pi-deepseek-tools",
-      "description": "Pi extension that improves DeepSeek V4 tool calling, argument repair, reasoning cleanup, and diagnostics for DeepSeek V4",
-      "type": "extension",
-      "source": "@bacnh85/pi-deepseek-tools",
-      "sourceKind": "npm",
-      "installCommand": "pi install git:bacnh85/pi-extensions",
-      "categories": [
-        "other"
-      ],
-      "author": "bacnh85",
-      "homepage": "https://github.com/bacnh85/pi-extensions#readme",
-      "repository": "https://github.com/bacnh85/pi-extensions.git",
-      "updatedAt": "2026-07-26",
-      "keywords": [
-        "pi",
-        "pi-extension",
-        "deepseek",
-        "deepseek-v4",
-        "opencode-go",
-        "tool-calling",
-        "agent-tools",
-        "reasoning",
-        "deepseek-v4-flash",
-        "deepseek-v4-pro"
-      ],
-      "verified": true
-    },
-    {
       "id": "@braintrust/pi-extension",
       "name": "@braintrust/pi-extension",
       "description": "Braintrust extension for pi. Includes automatic tracing for pi sessions, turns, LLM calls, and tool executions to Braint",
@@ -1924,26 +1895,6 @@
         "testing",
         "test-harness",
         "jiti"
-      ],
-      "verified": true
-    },
-    {
-      "id": "@danypops/pi-pipes",
-      "name": "@danypops/pi-pipes",
-      "description": "Pi extension: agent-facing CI tool for cross-platform CI (GitHub Actions, GitLab CI, Jenkins)",
-      "type": "extension",
-      "source": "@danypops/pi-pipes",
-      "sourceKind": "npm",
-      "installCommand": "pi install git:DanyPops/pipes",
-      "categories": [
-        "other"
-      ],
-      "author": "GitHub Actions",
-      "homepage": "https://github.com/DanyPops/pipes#readme",
-      "repository": "https://github.com/DanyPops/pipes.git",
-      "updatedAt": "2026-08-29",
-      "keywords": [
-        "pi-package"
       ],
       "verified": true
     },
@@ -2150,7 +2101,7 @@
       "author": "chefgroeponline",
       "homepage": "https://pi.dev/packages/@groeponline/pi-wishcraft",
       "repository": "https://github.com/GroepOnline/pi-wishcraft.git",
-      "updatedAt": "2026-09-07",
+      "updatedAt": "2026-09-13",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -2272,7 +2223,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/HenryQW/pi-harness#readme",
       "repository": "https://github.com/HenryQW/pi-harness.git",
-      "updatedAt": "2026-09-08",
+      "updatedAt": "2026-09-13",
       "keywords": [
         "pi-package",
         "pi",
@@ -2295,7 +2246,7 @@
       "author": "killerkidbo",
       "homepage": "https://github.com/heyhuynhgiabuu/pi-pretty#readme",
       "repository": "https://github.com/heyhuynhgiabuu/pi-pretty.git",
-      "updatedAt": "2026-09-08",
+      "updatedAt": "2026-09-13",
       "keywords": [
         "pi",
         "pi-extension",
@@ -2347,7 +2298,7 @@
       "author": "howaboua",
       "homepage": "https://github.com/IgorWarzocha/howaboua-pi-stuff/tree/main/packages/pi-codex-conversion#readme",
       "repository": "https://github.com/IgorWarzocha/howaboua-pi-stuff.git",
-      "updatedAt": "2026-09-11",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi",
@@ -2407,6 +2358,44 @@
         "coding-agent",
         "extension",
         "capability-index"
+      ],
+      "verified": true
+    },
+    {
+      "id": "@jmfederico/pi-web",
+      "name": "@jmfederico/pi-web",
+      "description": "Web UI for persistent Pi Coding Agent sessions in real workspaces.",
+      "type": "extension",
+      "source": "@jmfederico/pi-web",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:jmfederico/pi-web",
+      "categories": [
+        "subagents",
+        "memory",
+        "web",
+        "ui"
+      ],
+      "author": "GitHub Actions",
+      "homepage": "https://pi-web.dev/",
+      "repository": "https://github.com/jmfederico/pi-web.git",
+      "updatedAt": "2026-09-05",
+      "keywords": [
+        "pi-package",
+        "pi",
+        "pi-web",
+        "pi-web-ui",
+        "pi-webui",
+        "pi-coding-agent",
+        "pi-coding-agent-web-ui",
+        "coding-agent",
+        "ai-coding-agent",
+        "agentic-development",
+        "developer-tools",
+        "web-ui",
+        "webui",
+        "browser-ui",
+        "remote-development",
+        "persistent-sessions"
       ],
       "verified": true
     },
@@ -2504,7 +2493,7 @@
       "author": "juicesharp",
       "homepage": "https://github.com/juicesharp/rpiv-mono/tree/main/packages/rpiv-advisor#readme",
       "repository": "https://github.com/juicesharp/rpiv-mono.git",
-      "updatedAt": "2026-09-01",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -2527,7 +2516,7 @@
       "author": "juicesharp",
       "homepage": "https://github.com/juicesharp/rpiv-mono/tree/main/packages/rpiv-ask-user-question#readme",
       "repository": "https://github.com/juicesharp/rpiv-mono.git",
-      "updatedAt": "2026-09-01",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -2549,7 +2538,7 @@
       "author": "juicesharp",
       "homepage": "https://github.com/juicesharp/rpiv-mono/tree/main/packages/rpiv-btw#readme",
       "repository": "https://github.com/juicesharp/rpiv-mono.git",
-      "updatedAt": "2026-09-01",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -2574,7 +2563,7 @@
       "author": "juicesharp",
       "homepage": "https://github.com/juicesharp/rpiv-mono/tree/main/packages/rpiv-i18n#readme",
       "repository": "https://github.com/juicesharp/rpiv-mono.git",
-      "updatedAt": "2026-09-01",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -2600,40 +2589,12 @@
       "author": "juicesharp",
       "homepage": "https://github.com/juicesharp/rpiv-mono/tree/main/packages/rpiv-todo#readme",
       "repository": "https://github.com/juicesharp/rpiv-mono.git",
-      "updatedAt": "2026-09-01",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi-extension",
         "rpiv",
         "todo"
-      ],
-      "verified": true
-    },
-    {
-      "id": "@juicesharp/rpiv-voice",
-      "name": "@juicesharp/rpiv-voice",
-      "description": "Pi extension. Voice dictation via /voice — local on-device STT with sherpa-onnx Whisper (base multilingual int8), microp",
-      "type": "extension",
-      "source": "@juicesharp/rpiv-voice",
-      "sourceKind": "npm",
-      "installCommand": "pi install git:juicesharp/rpiv-mono",
-      "categories": [
-        "ui",
-        "voice"
-      ],
-      "author": "juicesharp",
-      "homepage": "https://github.com/juicesharp/rpiv-mono/tree/main/packages/rpiv-voice#readme",
-      "repository": "https://github.com/juicesharp/rpiv-mono.git",
-      "updatedAt": "2026-09-01",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "rpiv",
-        "voice",
-        "dictation",
-        "stt",
-        "sherpa-onnx",
-        "overlay"
       ],
       "verified": true
     },
@@ -2653,7 +2614,7 @@
       "author": "juicesharp",
       "homepage": "https://github.com/juicesharp/rpiv-mono/tree/main/packages/rpiv-web-tools#readme",
       "repository": "https://github.com/juicesharp/rpiv-mono.git",
-      "updatedAt": "2026-09-01",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -2709,30 +2670,6 @@
         "typescript",
         "react",
         "vite"
-      ],
-      "verified": true
-    },
-    {
-      "id": "@koltmcbride/pi-loop",
-      "name": "@koltmcbride/pi-loop",
-      "description": "A pi coding-agent extension that runs a prompt repeatedly on a timer, pi event, or self-paced (Claude Code-style /loop)",
-      "type": "extension",
-      "source": "@koltmcbride/pi-loop",
-      "sourceKind": "npm",
-      "installCommand": "pi install git:kolt-mcb/pi-loop",
-      "categories": [
-        "other"
-      ],
-      "author": "koltmcbride",
-      "homepage": "https://github.com/kolt-mcb/pi-loop#readme",
-      "repository": "https://github.com/kolt-mcb/pi-loop.git",
-      "updatedAt": "2026-05-30",
-      "keywords": [
-        "pi",
-        "pi-package",
-        "pi-extension",
-        "loop",
-        "automation"
       ],
       "verified": true
     },
@@ -2822,7 +2759,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/llblab/pi-telegram",
       "repository": "https://github.com/llblab/pi-telegram.git",
-      "updatedAt": "2026-09-11",
+      "updatedAt": "2026-09-13",
       "keywords": [
         "pi-package",
         "pi",
@@ -2890,7 +2827,7 @@
       "author": "magiusche",
       "homepage": "https://github.com/MagiusCHE/pi-webview",
       "repository": "https://github.com/MagiusCHE/pi-webview.git",
-      "updatedAt": "2026-09-11",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -2941,7 +2878,7 @@
       "author": "mjasnikovs",
       "homepage": "https://github.com/mjasnikovs/pi-task#readme",
       "repository": "https://github.com/mjasnikovs/pi-task.git",
-      "updatedAt": "2026-09-11",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi",
@@ -3033,7 +2970,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/mutmutco/MMI-Hub",
       "repository": "",
-      "updatedAt": "2026-09-11",
+      "updatedAt": "2026-09-13",
       "keywords": [
         "mmi",
         "mutmutco",
@@ -3257,7 +3194,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/narumiruna/pi-extensions#readme",
       "repository": "https://github.com/narumiruna/pi-extensions.git",
-      "updatedAt": "2026-09-11",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi",
         "pi-extension",
@@ -3281,7 +3218,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/narumiruna/pi-extensions#readme",
       "repository": "https://github.com/narumiruna/pi-extensions.git",
-      "updatedAt": "2026-09-08",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -3378,6 +3315,29 @@
       "keywords": [
         "pi-package",
         "pi-extension",
+        "unipi"
+      ],
+      "verified": true
+    },
+    {
+      "id": "@pi-unipi/unipi",
+      "name": "@pi-unipi/unipi",
+      "description": "All-in-one extension suite for Pi coding agent",
+      "type": "extension",
+      "source": "@pi-unipi/unipi",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:Neuron-Mr-White/unipi",
+      "categories": [
+        "ui"
+      ],
+      "author": "neuron-mr-white",
+      "homepage": "https://github.com/Neuron-Mr-White/unipi#readme",
+      "repository": "https://github.com/Neuron-Mr-White/unipi.git",
+      "updatedAt": "2026-09-11",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "pi-coding-agent",
         "unipi"
       ],
       "verified": true
@@ -3492,7 +3452,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/QuintinShaw/pi-dynamic-workflows#readme",
       "repository": "https://github.com/QuintinShaw/pi-dynamic-workflows.git",
-      "updatedAt": "2026-09-03",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi",
@@ -3771,6 +3731,30 @@
       "verified": true
     },
     {
+      "id": "@sreetej510/pi-prompt-manager",
+      "name": "@sreetej510/pi-prompt-manager",
+      "description": "Pi extension to quickly save, manage, and paste reusable prompts without retyping.",
+      "type": "prompt",
+      "source": "@sreetej510/pi-prompt-manager",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:Sreetej510/pi-extensions",
+      "categories": [
+        "ui"
+      ],
+      "author": "sreetej510",
+      "homepage": "https://github.com/Sreetej510/pi-extensions#readme",
+      "repository": "https://github.com/Sreetej510/pi-extensions.git",
+      "updatedAt": "2026-09-12",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "pi",
+        "prompts",
+        "snippets"
+      ],
+      "verified": true
+    },
+    {
       "id": "@sreetej510/pi-shipd-checks",
       "name": "@sreetej510/pi-shipd-checks",
       "description": "Pi extension that runs a strict, multi-agent fairness review of a benchmark task's agent_prompt.md, test.patch, and solu",
@@ -3957,6 +3941,33 @@
       "verified": true
     },
     {
+      "id": "@touchtechclub/pi-oc-rewind",
+      "name": "@touchtechclub/pi-oc-rewind",
+      "description": "Pi coding-agent extension: per-message undo/redo with shadow-git snapshots. Opencode-inspired.",
+      "type": "extension",
+      "source": "@touchtechclub/pi-oc-rewind",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:TouchTechClub/pi-toolkit",
+      "categories": [
+        "other"
+      ],
+      "author": "GitHub Actions",
+      "homepage": "https://github.com/TouchTechClub/pi-toolkit/tree/main/packages/oc-rewind#readme",
+      "repository": "https://github.com/TouchTechClub/pi-toolkit.git",
+      "updatedAt": "2026-06-07",
+      "keywords": [
+        "pi-coding-agent",
+        "pi-package",
+        "pi-extension",
+        "opencode",
+        "undo",
+        "redo",
+        "rewind",
+        "checkpoint"
+      ],
+      "verified": true
+    },
+    {
       "id": "@touchtechclub/pi-oc-web-tools",
       "name": "@touchtechclub/pi-oc-web-tools",
       "description": "Pi coding-agent extension: web fetch and web search tools with MCP transport. Opencode-inspired.",
@@ -4027,7 +4038,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/trim21/pi-extensions#readme",
       "repository": "https://github.com/trim21/pi-extensions.git",
-      "updatedAt": "2026-09-11",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package"
       ],
@@ -4072,7 +4083,7 @@
       "author": "twogiants",
       "homepage": "https://github.com/twoGiants/pi-anthropic-vertex#readme",
       "repository": "https://github.com/twoGiants/pi-anthropic-vertex.git",
-      "updatedAt": "2026-07-25",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -4159,28 +4170,6 @@
       "verified": true
     },
     {
-      "id": "@victor-software-house/pi-tmux",
-      "name": "@victor-software-house/pi-tmux",
-      "description": "Pi coding agent extension: tmux session management per project",
-      "type": "extension",
-      "source": "@victor-software-house/pi-tmux",
-      "sourceKind": "npm",
-      "installCommand": "pi install git:victor-software-house/pi-tmux",
-      "categories": [
-        "memory"
-      ],
-      "author": "victor-founder",
-      "homepage": "https://github.com/victor-software-house/pi-tmux#readme",
-      "repository": "https://github.com/victor-software-house/pi-tmux.git",
-      "updatedAt": "2026-04-08",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "tmux"
-      ],
-      "verified": true
-    },
-    {
       "id": "@xynogen/pix-pretty",
       "name": "@xynogen/pix-pretty",
       "description": "Enhanced tool output rendering with syntax highlighting, file icons, tree views, diff rendering, and FFF search",
@@ -4205,6 +4194,30 @@
         "fff",
         "paste-chips",
         "tool-rendering"
+      ],
+      "verified": true
+    },
+    {
+      "id": "@xynogen/pix-runtime",
+      "name": "@xynogen/pix-runtime",
+      "description": "Pix shared runtime — versioned pix.json config, atomic persistence, typed change events",
+      "type": "config",
+      "source": "@xynogen/pix-runtime",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:xynogen/pix-mono",
+      "categories": [
+        "other"
+      ],
+      "author": "GitHub Actions",
+      "homepage": "https://github.com/xynogen/pix-mono/tree/main/packages/pix-runtime#readme",
+      "repository": "https://github.com/xynogen/pix-mono.git",
+      "updatedAt": "2026-09-11",
+      "keywords": [
+        "pi",
+        "pi-package",
+        "pi-extension",
+        "config",
+        "runtime"
       ],
       "verified": true
     },
@@ -4308,6 +4321,26 @@
       "verified": true
     },
     {
+      "id": "auto-model-router",
+      "name": "auto-model-router",
+      "description": "Local cost/complexity-aware model router for Oh My Pi, backed by OpenRouter",
+      "type": "extension",
+      "source": "auto-model-router",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:drewappling/auto-model-router",
+      "categories": [
+        "other"
+      ],
+      "author": "drewappling",
+      "homepage": "https://github.com/drewappling/auto-model-router",
+      "repository": "https://github.com/drewappling/auto-model-router.git",
+      "updatedAt": "2026-09-12",
+      "keywords": [
+        "pi-package"
+      ],
+      "verified": true
+    },
+    {
       "id": "awto-pi-lot",
       "name": "awto-pi-lot",
       "description": "pi-coding-agent extension that adds PPQ.ai provider and their AutoClaw model",
@@ -4354,7 +4387,7 @@
       "author": "ranxianglei",
       "homepage": "https://github.com/ranxianglei/billion-context-pi",
       "repository": "https://github.com/ranxianglei/billion-context-pi.git",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi",
         "acp",
@@ -4463,30 +4496,6 @@
         "agent-pipeline",
         "autonomous",
         "continuous-development"
-      ],
-      "verified": true
-    },
-    {
-      "id": "killeros",
-      "name": "killeros",
-      "description": "TUI, goals, and workflow automation for the Pi coding agent",
-      "type": "extension",
-      "source": "killeros",
-      "sourceKind": "npm",
-      "installCommand": "pi install git:KyrosHendrix/pi-KillerOS",
-      "categories": [
-        "ui",
-        "plan"
-      ],
-      "author": "GitHub Actions",
-      "homepage": "https://github.com/KyrosHendrix/pi-KillerOS#readme",
-      "repository": "https://github.com/KyrosHendrix/pi-KillerOS.git",
-      "updatedAt": "2026-09-08",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "coding-agent",
-        "tui"
       ],
       "verified": true
     },
@@ -4692,7 +4701,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/philipbrembeck/pi-advisor",
       "repository": "https://github.com/philipbrembeck/pi-advisor.git",
-      "updatedAt": "2026-09-11",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -4717,7 +4726,7 @@
       "author": "fitchmultz",
       "homepage": "https://github.com/fitchmultz/pi-agent-browser-native#readme",
       "repository": "https://github.com/fitchmultz/pi-agent-browser-native.git",
-      "updatedAt": "2026-09-08",
+      "updatedAt": "2026-09-13",
       "keywords": [
         "pi-package",
         "pi",
@@ -4727,6 +4736,31 @@
         "browser-automation",
         "typescript",
         "npm-package"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pi-antigravity",
+      "name": "pi-antigravity",
+      "description": "Personal Antigravity / Cloud Code Assist provider for Pi Coding Agent",
+      "type": "extension",
+      "source": "pi-antigravity",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:Rahularya01/pi-antigravity",
+      "categories": [
+        "other"
+      ],
+      "author": "rahularya01",
+      "homepage": "https://github.com/Rahularya01/pi-antigravity#readme",
+      "repository": "https://github.com/Rahularya01/pi-antigravity.git",
+      "updatedAt": "2026-09-05",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "antigravity",
+        "google",
+        "oauth",
+        "provider"
       ],
       "verified": true
     },
@@ -4791,6 +4825,30 @@
         "multi-model",
         "task-manager",
         "pi-dev"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pi-better-auto-compact",
+      "name": "pi-better-auto-compact",
+      "description": "pi coding agent extension: additional auto-compact thresholds (percent of context window / used tokens), taking the lowe",
+      "type": "extension",
+      "source": "pi-better-auto-compact",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:fishcat37/pi-better-auto-compact",
+      "categories": [
+        "memory",
+        "ui"
+      ],
+      "author": "citromint",
+      "homepage": "https://github.com/fishcat37/pi-better-auto-compact#readme",
+      "repository": "https://github.com/fishcat37/pi-better-auto-compact.git",
+      "updatedAt": "2026-09-05",
+      "keywords": [
+        "pi-package",
+        "pi",
+        "auto-compact",
+        "compaction"
       ],
       "verified": true
     },
@@ -4924,35 +4982,6 @@
         "pi-extension",
         "pi-coding-agent",
         "claude-code"
-      ],
-      "verified": true
-    },
-    {
-      "id": "pi-chalin",
-      "name": "pi-chalin",
-      "description": "Pi Coding Agent extension for routed, memory-aware subagent workflows",
-      "type": "extension",
-      "source": "pi-chalin",
-      "sourceKind": "npm",
-      "installCommand": "pi install git:0xkuze/pi-chalin",
-      "categories": [
-        "subagents",
-        "memory",
-        "plan"
-      ],
-      "author": "kuze",
-      "homepage": "https://github.com/0xkuze/pi-chalin#readme",
-      "repository": "https://github.com/0xkuze/pi-chalin.git",
-      "updatedAt": "2026-05-23",
-      "keywords": [
-        "pi-package",
-        "pi",
-        "pi-extension",
-        "pi-coding-agent",
-        "subagents",
-        "agentic",
-        "memory",
-        "orchestration"
       ],
       "verified": true
     },
@@ -5115,6 +5144,33 @@
         "code-intelligence",
         "mcp",
         "knowledge-graph"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pi-compaction-control",
+      "name": "pi-compaction-control",
+      "description": "Pi Coding Agent extension: granular per-model context-window hard cap + configurable compaction summariser model, all fr",
+      "type": "extension",
+      "source": "pi-compaction-control",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:aalexren/pi-compaction-control",
+      "categories": [
+        "memory"
+      ],
+      "author": "GitHub Actions",
+      "homepage": "https://github.com/aalexren/pi-compaction-control#readme",
+      "repository": "https://github.com/aalexren/pi-compaction-control.git",
+      "updatedAt": "2026-09-05",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "pi-coding-agent",
+        "compaction",
+        "context-window",
+        "context-cap",
+        "compaction-model",
+        "llm"
       ],
       "verified": true
     },
@@ -5347,7 +5403,7 @@
       "author": "monotykamary",
       "homepage": "https://github.com/monotykamary/pi-fabric#readme",
       "repository": "https://github.com/monotykamary/pi-fabric.git",
-      "updatedAt": "2026-09-09",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -5401,7 +5457,7 @@
       "author": "trefeon",
       "homepage": "https://github.com/trefeon/pi-freeflow#readme",
       "repository": "https://github.com/trefeon/pi-freeflow.git",
-      "updatedAt": "2026-09-09",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -5568,7 +5624,7 @@
       "author": "yugimob",
       "homepage": "https://github.com/YuGiMob/pi-hashline-edit-pro#readme",
       "repository": "https://github.com/YuGiMob/pi-hashline-edit-pro.git",
-      "updatedAt": "2026-09-11",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi-package",
         "pi",
@@ -5603,7 +5659,7 @@
       "author": "chandra447",
       "homepage": "https://github.com/chandra447/pi-hermes-memory#readme",
       "repository": "https://github.com/chandra447/pi-hermes-memory.git",
-      "updatedAt": "2026-09-05",
+      "updatedAt": "2026-09-13",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -5799,7 +5855,7 @@
       "author": "gsanhueza",
       "homepage": "https://github.com/gsanhueza/pi-llama-cpp#readme",
       "repository": "https://github.com/gsanhueza/pi-llama-cpp.git",
-      "updatedAt": "2026-09-06",
+      "updatedAt": "2026-09-12",
       "keywords": [
         "pi",
         "pi-package",
@@ -5977,36 +6033,6 @@
       "verified": true
     },
     {
-      "id": "pi-mesh-extension",
-      "name": "pi-mesh-extension",
-      "description": "Live agent-to-agent communication for Pi — local broker, mesh.v1 protocol, honest delivered/read/answered statuses, hash",
-      "type": "extension",
-      "source": "pi-mesh-extension",
-      "sourceKind": "npm",
-      "installCommand": "pi install git:cgarrot/pi-mesh",
-      "categories": [
-        "subagents",
-        "ui"
-      ],
-      "author": "cgarrot",
-      "homepage": "https://github.com/cgarrot/pi-mesh#readme",
-      "repository": "https://github.com/cgarrot/pi-mesh.git",
-      "updatedAt": "2026-08-29",
-      "keywords": [
-        "pi",
-        "pi-package",
-        "pi-extension",
-        "mesh",
-        "multi-agent",
-        "agents",
-        "communication",
-        "broker",
-        "unix-socket",
-        "extension"
-      ],
-      "verified": true
-    },
-    {
       "id": "pi-models-dev-providers",
       "name": "pi-models-dev-providers",
       "description": "A pi-coding-agent extension to use model.dev providers",
@@ -6028,6 +6054,26 @@
         "extension",
         "models.dev",
         "providers"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pi-nvidia-nim",
+      "name": "pi-nvidia-nim",
+      "description": "NVIDIA NIM API provider extension for pi coding agent — access 100+ models from build.nvidia.com",
+      "type": "extension",
+      "source": "pi-nvidia-nim",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:xRyul/pi-nvidia-nim",
+      "categories": [
+        "ui"
+      ],
+      "author": "xryul",
+      "homepage": "https://github.com/xRyul/pi-nvidia-nim",
+      "repository": "https://github.com/xRyul/pi-nvidia-nim.git",
+      "updatedAt": "2026-07-20",
+      "keywords": [
+        "pi-package"
       ],
       "verified": true
     },
@@ -6498,28 +6544,51 @@
       "verified": true
     },
     {
-      "id": "pi-tldr",
-      "name": "pi-tldr",
-      "description": "A pi coding-agent extension that shows live TLDRs above the input bar.",
+      "id": "pi-tmux-bridge",
+      "name": "pi-tmux-bridge",
+      "description": "A pi coding-agent extension that feeds this terminal's tmux state (status bar, attention bell, session bus) from a pi se",
       "type": "extension",
-      "source": "pi-tldr",
+      "source": "pi-tmux-bridge",
       "sourceKind": "npm",
-      "installCommand": "pi install git:richtan/pi-tldr",
+      "installCommand": "pi install git:schuettc/pi-extensions",
       "categories": [
-        "ui"
+        "memory",
+        "ui",
+        "terminal"
       ],
-      "author": "GitHub Actions",
-      "homepage": "https://github.com/richtan/pi-tldr#readme",
-      "repository": "https://github.com/richtan/pi-tldr.git",
-      "updatedAt": "2026-05-15",
+      "author": "schuettc",
+      "homepage": "https://github.com/schuettc/pi-extensions#readme",
+      "repository": "https://github.com/schuettc/pi-extensions.git",
+      "updatedAt": "2026-08-30",
       "keywords": [
         "pi-package",
         "pi-extension",
+        "pi-coding-agent",
+        "tmux",
+        "harness",
+        "status-bar"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pi-token-speed",
+      "name": "pi-token-speed",
+      "description": "Pi extension to measure tokens per second via sliding window.",
+      "type": "extension",
+      "source": "pi-token-speed",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:gsanhueza/pi-token-speed",
+      "categories": [
+        "other"
+      ],
+      "author": "gsanhueza",
+      "homepage": "https://github.com/gsanhueza/pi-token-speed#readme",
+      "repository": "https://github.com/gsanhueza/pi-token-speed.git",
+      "updatedAt": "2026-09-13",
+      "keywords": [
         "pi",
-        "coding-agent",
-        "tldr",
-        "llm",
-        "tui"
+        "pi-package",
+        "pi-extension"
       ],
       "verified": true
     },
