@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T08:46:45.797Z",
-  "count": 244,
+  "generatedAt": "2026-11-08T08:59:01.992Z",
+  "count": 243,
   "plugins": [
     {
       "id": "pi-web-access",
@@ -17,7 +17,7 @@
       "author": "nicopreme",
       "homepage": "https://github.com/nicobailon/pi-web-access#readme",
       "repository": "https://github.com/nicobailon/pi-web-access.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "pi-package",
         "pi",
@@ -35,7 +35,7 @@
         "scraping"
       ],
       "verified": true,
-      "stars": 1772
+      "stars": 1776
     },
     {
       "id": "pi-mcp-adapter",
@@ -52,7 +52,7 @@
       "author": "nicopreme",
       "homepage": "https://github.com/nicobailon/pi-mcp-adapter#readme",
       "repository": "https://github.com/nicobailon/pi-mcp-adapter.git",
-      "updatedAt": "2026-11-06",
+      "updatedAt": "2026-11-07",
       "keywords": [
         "pi-package",
         "pi",
@@ -65,7 +65,7 @@
         "llm"
       ],
       "verified": true,
-      "stars": 1642
+      "stars": 1644
     },
     {
       "id": "@narumitw/pi-usage",
@@ -81,7 +81,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/narumiruna/pi-extensions#readme",
       "repository": "https://github.com/narumiruna/pi-extensions.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -111,7 +111,7 @@
         "grok"
       ],
       "verified": true,
-      "stars": 760
+      "stars": 763
     },
     {
       "id": "github:nicobailon/pi-messenger",
@@ -127,7 +127,7 @@
       "author": "nicobailon",
       "homepage": "https://github.com/nicobailon/pi-messenger",
       "repository": "https://github.com/nicobailon/pi-messenger",
-      "stars": 734,
+      "stars": 737,
       "updatedAt": "2026-11-07",
       "keywords": [],
       "verified": true
@@ -146,8 +146,8 @@
       "author": "ccch1mneyyy",
       "homepage": "https://github.com/ccch1mneyyy/working-activity",
       "repository": "https://github.com/ccch1mneyyy/working-activity",
-      "stars": 666,
-      "updatedAt": "2026-11-02",
+      "stars": 667,
+      "updatedAt": "2026-11-08",
       "keywords": [
         "deepseek-harness",
         "dsh-plugin",
@@ -172,8 +172,8 @@
       "author": "nicobailon",
       "homepage": "https://github.com/nicobailon/pi-interactive-shell",
       "repository": "https://github.com/nicobailon/pi-interactive-shell",
-      "stars": 603,
-      "updatedAt": "2026-11-06",
+      "stars": 605,
+      "updatedAt": "2026-11-08",
       "keywords": [],
       "verified": true
     },
@@ -191,8 +191,8 @@
       "author": "nicobailon",
       "homepage": "https://github.com/nicobailon/pi-intercom",
       "repository": "https://github.com/nicobailon/pi-intercom",
-      "stars": 579,
-      "updatedAt": "2026-11-07",
+      "stars": 603,
+      "updatedAt": "2026-11-08",
       "keywords": [],
       "verified": true
     },
@@ -211,7 +211,7 @@
       "homepage": "https://www.mustier.ai/projects/pi-extensions",
       "repository": "https://github.com/tmustier/pi-extensions",
       "stars": 497,
-      "updatedAt": "2026-11-03",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "extension",
         "npm",
@@ -234,7 +234,7 @@
       "author": "nicopreme",
       "homepage": "https://github.com/nicobailon/pi-powerline-footer#readme",
       "repository": "https://github.com/nicobailon/pi-powerline-footer.git",
-      "updatedAt": "2026-11-06",
+      "updatedAt": "2026-11-07",
       "keywords": [
         "pi-package",
         "pi",
@@ -244,7 +244,7 @@
         "extension"
       ],
       "verified": true,
-      "stars": 471
+      "stars": 472
     },
     {
       "id": "github:HazAT/pi-config",
@@ -282,8 +282,8 @@
       "author": "justhil",
       "homepage": "https://github.com/justhil/pi-app",
       "repository": "https://github.com/justhil/pi-app",
-      "stars": 395,
-      "updatedAt": "2026-11-06",
+      "stars": 396,
+      "updatedAt": "2026-11-08",
       "keywords": [
         "agentic-coding",
         "ai-agent",
@@ -323,8 +323,8 @@
       "author": "xiaomoBoy",
       "homepage": "https://pi.xiaomovps.com",
       "repository": "https://github.com/xiaomoBoy/pi-bluebook",
-      "stars": 344,
-      "updatedAt": "2026-11-07",
+      "stars": 346,
+      "updatedAt": "2026-11-08",
       "keywords": [
         "agent-harness",
         "agent-skills",
@@ -392,7 +392,7 @@
       "author": "masurii",
       "homepage": "https://github.com/MasuRii/pi-rtk-optimizer#readme",
       "repository": "https://github.com/MasuRii/pi-rtk-optimizer.git",
-      "updatedAt": "2026-11-06",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "pi-package",
         "pi",
@@ -407,7 +407,7 @@
         "optimization"
       ],
       "verified": true,
-      "stars": 285
+      "stars": 286
     },
     {
       "id": "github:championswimmer/pi-context-prune",
@@ -490,8 +490,8 @@
       "author": "dodo-reach",
       "homepage": "https://github.com/dodo-reach/pi-clarify",
       "repository": "https://github.com/dodo-reach/pi-clarify",
-      "stars": 185,
-      "updatedAt": "2026-11-05",
+      "stars": 186,
+      "updatedAt": "2026-11-08",
       "keywords": [
         "pi-coding-agent",
         "pi-package",
@@ -533,6 +533,25 @@
       "verified": true
     },
     {
+      "id": "github:luongnv89/pi-extensions",
+      "name": "luongnv89/pi-extensions",
+      "description": "Collection of extensions and themes for Pi Coding Agent",
+      "type": "extension",
+      "source": "luongnv89/pi-extensions",
+      "sourceKind": "github",
+      "installCommand": "pi install git:luongnv89/pi-extensions",
+      "categories": [
+        "ui"
+      ],
+      "author": "luongnv89",
+      "homepage": "https://github.com/luongnv89/pi-extensions",
+      "repository": "https://github.com/luongnv89/pi-extensions",
+      "stars": 162,
+      "updatedAt": "2026-11-08",
+      "keywords": [],
+      "verified": true
+    },
+    {
       "id": "github:ifiokjr/monopi",
       "name": "ifiokjr/monopi",
       "description": "One-click setup for pi-coding-agent — extensions, themes, prompts, skills, and ant-colony swarm. Like oh-my-zsh for pi.",
@@ -547,59 +566,9 @@
       "homepage": "https://ifiokjr.github.io/monopi/",
       "repository": "https://github.com/ifiokjr/monopi",
       "stars": 160,
-      "updatedAt": "2026-11-04",
+      "updatedAt": "2026-11-07",
       "keywords": [],
       "verified": true
-    },
-    {
-      "id": "github:luongnv89/pi-extensions",
-      "name": "luongnv89/pi-extensions",
-      "description": "Collection of extensions and themes for Pi Coding Agent",
-      "type": "extension",
-      "source": "luongnv89/pi-extensions",
-      "sourceKind": "github",
-      "installCommand": "pi install git:luongnv89/pi-extensions",
-      "categories": [
-        "ui"
-      ],
-      "author": "luongnv89",
-      "homepage": "https://github.com/luongnv89/pi-extensions",
-      "repository": "https://github.com/luongnv89/pi-extensions",
-      "stars": 160,
-      "updatedAt": "2026-11-06",
-      "keywords": [],
-      "verified": true
-    },
-    {
-      "id": "pi-simplify",
-      "name": "pi-simplify",
-      "description": "A Pi extension that reviews recently changed code for clarity, consistency, and maintainability.",
-      "type": "extension",
-      "source": "pi-simplify",
-      "sourceKind": "npm",
-      "installCommand": "pi install git:MattDevy/pi-extensions",
-      "categories": [
-        "code"
-      ],
-      "author": "GitHub Actions",
-      "homepage": "https://github.com/MattDevy/pi-extensions/tree/main/packages/pi-simplify#readme",
-      "repository": "https://github.com/MattDevy/pi-extensions.git",
-      "updatedAt": "2026-11-04",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "pi-coding-agent",
-        "code-review",
-        "simplify",
-        "refactor",
-        "ai",
-        "llm",
-        "ai-agent",
-        "coding-assistant",
-        "developer-tools"
-      ],
-      "verified": true,
-      "stars": 156
     },
     {
       "id": "pi-cc-extensions",
@@ -615,7 +584,7 @@
       "author": "minuque",
       "homepage": "https://github.com/minuque/pi-cc-extensions#readme",
       "repository": "https://github.com/minuque/pi-cc-extensions.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -623,7 +592,57 @@
         "claude-code"
       ],
       "verified": true,
+      "stars": 156
+    },
+    {
+      "id": "pi-simplify",
+      "name": "pi-simplify",
+      "description": "A Pi extension that reviews recently changed code for clarity, consistency, and maintainability.",
+      "type": "extension",
+      "source": "pi-simplify",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:MattDevy/pi-extensions",
+      "categories": [
+        "code"
+      ],
+      "author": "GitHub Actions",
+      "homepage": "https://github.com/MattDevy/pi-extensions/tree/main/packages/pi-simplify#readme",
+      "repository": "https://github.com/MattDevy/pi-extensions.git",
+      "updatedAt": "2026-11-08",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "pi-coding-agent",
+        "code-review",
+        "simplify",
+        "refactor",
+        "ai",
+        "llm",
+        "ai-agent",
+        "coding-assistant",
+        "developer-tools"
+      ],
+      "verified": true,
       "stars": 155
+    },
+    {
+      "id": "github:bubbleptr/awesome-pi",
+      "name": "bubbleptr/awesome-pi",
+      "description": "Awesome Pi - A curated list of Pi Coding Agent extensions, themes, skills, prompt templates, and community resources.",
+      "type": "extension",
+      "source": "bubbleptr/awesome-pi",
+      "sourceKind": "github",
+      "installCommand": "pi install git:bubbleptr/awesome-pi",
+      "categories": [
+        "ui"
+      ],
+      "author": "bubbleptr",
+      "homepage": "https://piindex.dev",
+      "repository": "https://github.com/bubbleptr/awesome-pi",
+      "stars": 152,
+      "updatedAt": "2026-11-08",
+      "keywords": [],
+      "verified": true
     },
     {
       "id": "github:gustavonline/pi-desktop",
@@ -651,25 +670,6 @@
         "tauri",
         "typescript"
       ],
-      "verified": true
-    },
-    {
-      "id": "github:bubbleptr/awesome-pi",
-      "name": "bubbleptr/awesome-pi",
-      "description": "Awesome Pi - A curated list of Pi Coding Agent extensions, themes, skills, prompt templates, and community resources.",
-      "type": "extension",
-      "source": "bubbleptr/awesome-pi",
-      "sourceKind": "github",
-      "installCommand": "pi install git:bubbleptr/awesome-pi",
-      "categories": [
-        "ui"
-      ],
-      "author": "bubbleptr",
-      "homepage": "https://piindex.dev",
-      "repository": "https://github.com/bubbleptr/awesome-pi",
-      "stars": 151,
-      "updatedAt": "2026-11-07",
-      "keywords": [],
       "verified": true
     },
     {
@@ -736,7 +736,7 @@
       "homepage": "https://my-pi.dev",
       "repository": "https://github.com/spences10/my-pi",
       "stars": 138,
-      "updatedAt": "2026-11-06",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "cli",
         "coding-agent",
@@ -787,7 +787,7 @@
       "author": "dimk90",
       "homepage": "https://github.com/dimk90/pi-context-view#readme",
       "repository": "https://github.com/dimk90/pi-context-view.git",
-      "updatedAt": "2026-11-06",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "pi",
         "pi-extension",
@@ -798,7 +798,7 @@
         "tui"
       ],
       "verified": true,
-      "stars": 124
+      "stars": 125
     },
     {
       "id": "@a-t-h-i/bot-lobby",
@@ -859,35 +859,6 @@
       "verified": true
     },
     {
-      "id": "@agimon-ai/doompi-minor-mode",
-      "name": "@agimon-ai/doompi-minor-mode",
-      "description": "Minor-mode ownership, catalog, commands, and session lifecycle.",
-      "type": "extension",
-      "source": "@agimon-ai/doompi-minor-mode",
-      "sourceKind": "npm",
-      "installCommand": "pi install git:AgiFlow/doompi",
-      "categories": [
-        "memory"
-      ],
-      "author": "agiflow-ai",
-      "homepage": "https://agimon.ai",
-      "repository": "https://github.com/AgiFlow/doompi.git",
-      "updatedAt": "2026-10-11",
-      "keywords": [
-        "ai",
-        "coding-agent",
-        "developer-tools",
-        "doompi",
-        "layer-composition",
-        "major-mode",
-        "pi-coding-agent",
-        "pi-extension",
-        "pi-package",
-        "session-reload"
-      ],
-      "verified": true
-    },
-    {
       "id": "@agimon-ai/po-author",
       "name": "@agimon-ai/po-author",
       "description": "Visual steering workspace for focused document review and bounded authoring",
@@ -901,7 +872,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "authoring",
@@ -929,7 +900,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "auto-stop",
@@ -958,7 +929,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -986,7 +957,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1014,7 +985,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "agent-configuration",
         "ai",
@@ -1044,7 +1015,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1071,7 +1042,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1102,7 +1073,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1130,7 +1101,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1159,7 +1130,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1187,7 +1158,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "agent-goals",
         "ai",
@@ -1216,7 +1187,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1244,7 +1215,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "agent-documentation",
         "ai",
@@ -1274,7 +1245,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "agent-observability",
         "ai",
@@ -1304,7 +1275,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1334,7 +1305,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1363,7 +1334,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1392,7 +1363,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1422,7 +1393,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1454,7 +1425,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1483,7 +1454,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "agent-persona",
         "ai",
@@ -1512,7 +1483,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1540,7 +1511,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1568,7 +1539,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "background-process",
@@ -1597,7 +1568,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1625,7 +1596,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1653,7 +1624,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "agent-skills",
         "ai",
@@ -1684,7 +1655,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1713,7 +1684,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "agent-team",
         "ai",
@@ -1743,7 +1714,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1772,7 +1743,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "ask-user-question",
@@ -1801,7 +1772,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "coding-agent",
@@ -1831,7 +1802,7 @@
       "author": "agiflow-ai",
       "homepage": "https://agimon.ai",
       "repository": "https://github.com/AgiFlow/po.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "ai",
         "automation",
@@ -1930,38 +1901,28 @@
       "verified": true
     },
     {
-      "id": "@akagilnc/pi-workflow-roles",
-      "name": "@akagilnc/pi-workflow-roles",
-      "description": "Soul-bound workflow roles for Pi",
+      "id": "@aiwayds/pi-think-panel",
+      "name": "@aiwayds/pi-think-panel",
+      "description": "pi-coding-agent extension — thinking viewport widget above the editor, live-scrolls the model's reasoning (1/3/5/7 lines",
       "type": "extension",
-      "source": "@akagilnc/pi-workflow-roles",
+      "source": "@aiwayds/pi-think-panel",
       "sourceKind": "npm",
-      "installCommand": "pi install git:Akagilnc/ak-pi-workflow-roles",
+      "installCommand": "pi install git:fan56/pi-think-panel",
       "categories": [
-        "subagents",
-        "code",
-        "plan"
+        "ui"
       ],
-      "author": "GitHub Actions",
-      "homepage": "https://github.com/Akagilnc/ak-pi-workflow-roles#readme",
-      "repository": "https://github.com/Akagilnc/ak-pi-workflow-roles.git",
-      "updatedAt": "2026-11-02",
+      "author": "aiwayds",
+      "homepage": "https://github.com/fan56/pi-think-panel#readme",
+      "repository": "https://github.com/fan56/pi-think-panel.git",
+      "updatedAt": "2026-09-20",
       "keywords": [
+        "pi",
         "pi-package",
-        "ai-agents",
-        "agents",
-        "agentic",
-        "multi-agent",
-        "agent-framework",
-        "agent-orchestration",
-        "ai-governance",
-        "human-in-the-loop",
-        "claude-code",
-        "codex",
-        "code-review",
-        "llm",
-        "ai",
-        "typescript"
+        "pi-extension",
+        "think",
+        "reasoning",
+        "widget",
+        "tui"
       ],
       "verified": true
     },
@@ -2084,35 +2045,6 @@
         "aweb",
         "agent-coordination",
         "channel"
-      ],
-      "verified": true
-    },
-    {
-      "id": "@brainervirus/workit-pi",
-      "name": "@brainervirus/workit-pi",
-      "description": "Workit native extension for Pi — tools, method skills, and session continuity",
-      "type": "extension",
-      "source": "@brainervirus/workit-pi",
-      "sourceKind": "npm",
-      "installCommand": "pi install git:BrainerVirus/workit",
-      "categories": [
-        "subagents",
-        "memory",
-        "ui",
-        "plan"
-      ],
-      "author": "brainervirus",
-      "homepage": "https://github.com/BrainerVirus/workit#readme",
-      "repository": "https://github.com/BrainerVirus/workit.git",
-      "updatedAt": "2026-11-05",
-      "keywords": [
-        "agentic-coding",
-        "ai-agents",
-        "coding-agent",
-        "extension",
-        "pi",
-        "pi-package",
-        "workflow"
       ],
       "verified": true
     },
@@ -2363,7 +2295,7 @@
       "author": "GitHub Actions",
       "homepage": "https://www.cratis.io/ai/",
       "repository": "https://github.com/Cratis/AI.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "cratis",
         "pi-package",
@@ -3083,35 +3015,6 @@
       "verified": true
     },
     {
-      "id": "@juicesharp/rpiv-workflow",
-      "name": "@juicesharp/rpiv-workflow",
-      "description": "Pi extension. Chain skills into typed multi-stage workflows with audited JSONL state, predicate routing, and per-stage o",
-      "type": "skill",
-      "source": "@juicesharp/rpiv-workflow",
-      "sourceKind": "npm",
-      "installCommand": "pi install git:juicesharp/rpiv-mono",
-      "categories": [
-        "subagents",
-        "ui",
-        "plan"
-      ],
-      "author": "juicesharp",
-      "homepage": "https://github.com/juicesharp/rpiv-mono/tree/main/packages/rpiv-workflow#readme",
-      "repository": "https://github.com/juicesharp/rpiv-mono.git",
-      "updatedAt": "2026-10-24",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "rpiv",
-        "workflow",
-        "skills",
-        "orchestration",
-        "dag",
-        "pipeline"
-      ],
-      "verified": true
-    },
-    {
       "id": "@jwilger/pi-development-system",
       "name": "@jwilger/pi-development-system",
       "description": "A pi extension package representing a seasoned approach to software development using a full AI SDLC.",
@@ -3522,6 +3425,34 @@
       "verified": true
     },
     {
+      "id": "@narumitw/pi-lsp",
+      "name": "@narumitw/pi-lsp",
+      "description": "Pi extension that exposes configurable, language-agnostic LSP tools through a shared runner.",
+      "type": "config",
+      "source": "@narumitw/pi-lsp",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:narumiruna/pi-extensions",
+      "categories": [
+        "code"
+      ],
+      "author": "GitHub Actions",
+      "homepage": "https://github.com/narumiruna/pi-extensions#readme",
+      "repository": "https://github.com/narumiruna/pi-extensions.git",
+      "updatedAt": "2026-11-04",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "pi",
+        "lsp",
+        "language-server-protocol",
+        "configurable",
+        "lint",
+        "diagnostics",
+        "code-action"
+      ],
+      "verified": true
+    },
+    {
       "id": "@narumitw/pi-plan-mode",
       "name": "@narumitw/pi-plan-mode",
       "description": "Pi extension that adds a Codex-like read-only /plan collaboration mode.",
@@ -3736,7 +3667,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/backnotprop/plannotator",
       "repository": "https://github.com/backnotprop/plannotator.git",
-      "updatedAt": "2026-11-06",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "pi-package",
         "plannotator",
@@ -3951,7 +3882,7 @@
       "author": "saccoagustin",
       "homepage": "https://github.com/agustinsacco/pi-claude-cli#readme",
       "repository": "https://github.com/agustinsacco/pi-claude-cli.git",
-      "updatedAt": "2026-09-28",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "pi-package"
       ],
@@ -4330,7 +4261,7 @@
       ],
       "author": "sunwenzhe-git",
       "repository": "",
-      "updatedAt": "2026-11-06",
+      "updatedAt": "2026-11-07",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -4399,7 +4330,7 @@
       "author": "ranxianglei",
       "homepage": "https://github.com/ranxianglei/billion-context#readme",
       "repository": "https://github.com/ranxianglei/billion-context.git",
-      "updatedAt": "2026-11-02",
+      "updatedAt": "2026-11-07",
       "keywords": [
         "context",
         "compression",
@@ -4432,7 +4363,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/Gentleman-Programming/engram",
       "repository": "https://github.com/Gentleman-Programming/engram.git",
-      "updatedAt": "2026-11-04",
+      "updatedAt": "2026-11-07",
       "keywords": [
         "pi-package",
         "pi",
@@ -4466,7 +4397,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/Gentleman-Programming/gentle-shell#readme",
       "repository": "https://github.com/Gentleman-Programming/gentle-shell.git",
-      "updatedAt": "2026-11-04",
+      "updatedAt": "2026-11-07",
       "keywords": [
         "pi-package",
         "pi",
@@ -4627,7 +4558,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/fitchmultz/pi-agent-browser-native#readme",
       "repository": "https://github.com/fitchmultz/pi-agent-browser-native.git",
-      "updatedAt": "2026-11-03",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "pi-package",
         "pi",
@@ -4745,7 +4676,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/1aboveio/pi-better-harness/tree/main/packages/pi-better-harness#readme",
       "repository": "https://github.com/1aboveio/pi-better-harness.git",
-      "updatedAt": "2026-11-06",
+      "updatedAt": "2026-11-07",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -4947,7 +4878,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/acolomba/pi-claude-marketplace#readme",
       "repository": "https://github.com/acolomba/pi-claude-marketplace.git",
-      "updatedAt": "2026-11-03",
+      "updatedAt": "2026-11-07",
       "keywords": [
         "claude",
         "claude-code",
@@ -4974,7 +4905,7 @@
       "author": "0xrichardh",
       "homepage": "https://github.com/0xRichardH/pi-cliproxyapi-provider#readme",
       "repository": "https://github.com/0xRichardH/pi-cliproxyapi-provider.git",
-      "updatedAt": "2026-11-06",
+      "updatedAt": "2026-11-07",
       "keywords": [
         "pi-package",
         "pi-extension",
@@ -4982,6 +4913,44 @@
         "cliproxyapi",
         "provider",
         "models.dev"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pi-code",
+      "name": "pi-code",
+      "description": "Claude Code experience for the pi coding agent: reads your .claude config (rules, commands, skills, hooks, output styles",
+      "type": "skill",
+      "source": "pi-code",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:ilovepixelart/pi-code",
+      "categories": [
+        "subagents",
+        "memory",
+        "mcp",
+        "web",
+        "plan"
+      ],
+      "author": "GitHub Actions",
+      "homepage": "https://github.com/ilovepixelart/pi-code#readme",
+      "repository": "https://github.com/ilovepixelart/pi-code.git",
+      "updatedAt": "2026-11-04",
+      "keywords": [
+        "pi",
+        "pi-package",
+        "pi-coding-agent",
+        "pi-extension",
+        "extension",
+        "claude",
+        "claude-code",
+        "coding-agent",
+        "ai",
+        "mcp",
+        "hooks",
+        "skills",
+        "subagents",
+        "memory",
+        "todo"
       ],
       "verified": true
     },
@@ -5189,7 +5158,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/fitchmultz/pi-cursor-sdk#readme",
       "repository": "https://github.com/fitchmultz/pi-cursor-sdk.git",
-      "updatedAt": "2026-11-04",
+      "updatedAt": "2026-11-07",
       "keywords": [
         "pi-package",
         "pi",
@@ -5247,7 +5216,7 @@
       ],
       "author": "xeonliu",
       "repository": "",
-      "updatedAt": "2026-10-30",
+      "updatedAt": "2026-11-07",
       "keywords": [
         "pi",
         "pi-package",
@@ -5553,7 +5522,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/DraconDev/pi-goal-list-loop-audit#readme",
       "repository": "https://github.com/DraconDev/pi-goal-list-loop-audit.git",
-      "updatedAt": "2026-11-04",
+      "updatedAt": "2026-11-07",
       "keywords": [
         "pi-package",
         "pi",
@@ -5642,7 +5611,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/ManotLuijiu/pi-harness-runtime#readme",
       "repository": "https://github.com/ManotLuijiu/pi-harness-runtime.git",
-      "updatedAt": "2026-10-28",
+      "updatedAt": "2026-11-07",
       "keywords": [
         "pi-package",
         "pi",
@@ -5831,7 +5800,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/landstrip/landstrip#readme",
       "repository": "https://github.com/landstrip/landstrip.git",
-      "updatedAt": "2026-11-06",
+      "updatedAt": "2026-11-07",
       "keywords": [
         "landstrip",
         "pi-extension",
@@ -5980,7 +5949,7 @@
       "author": "GitHub Actions",
       "homepage": "https://github.com/irahardianto/pi-mcp-extension",
       "repository": "https://github.com/irahardianto/pi-mcp-extension.git",
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-08",
       "keywords": [
         "pi-package",
         "mcp",
@@ -6308,6 +6277,31 @@
       "verified": true
     },
     {
+      "id": "pi-provider-litellm-oidc",
+      "name": "pi-provider-litellm-oidc",
+      "description": "Keyless OIDC (Keycloak device flow) provider for LiteLLM gateways — pi coding agent extension",
+      "type": "extension",
+      "source": "pi-provider-litellm-oidc",
+      "sourceKind": "npm",
+      "installCommand": "pi install git:jesset/pi-provider-litellm-oidc",
+      "categories": [
+        "other"
+      ],
+      "author": "GitHub Actions",
+      "homepage": "https://github.com/jesset/pi-provider-litellm-oidc#readme",
+      "repository": "https://github.com/jesset/pi-provider-litellm-oidc.git",
+      "updatedAt": "2026-11-01",
+      "keywords": [
+        "pi-package",
+        "pi-mono",
+        "litellm",
+        "oidc",
+        "keycloak",
+        "keyless"
+      ],
+      "verified": true
+    },
+    {
       "id": "pi-rename",
       "name": "pi-rename",
       "description": "Pi coding agent extension — auto-name a new session after the first turn, /rename from the last 5 turns, and mirror the ",
@@ -6384,29 +6378,6 @@
       "keywords": [
         "pi-package",
         "pi-extension"
-      ],
-      "verified": true
-    },
-    {
-      "id": "pi-session-context",
-      "name": "pi-session-context",
-      "description": "A pi coding agent extension that tracks and displays session context (worktree, Jira ticket, GitLab MR) in the footer",
-      "type": "extension",
-      "source": "pi-session-context",
-      "sourceKind": "npm",
-      "installCommand": "pi install git:it-ony/pi-session-context",
-      "categories": [
-        "memory",
-        "ui"
-      ],
-      "author": "GitHub Actions",
-      "homepage": "https://github.com/it-ony/pi-session-context#readme",
-      "repository": "https://github.com/it-ony/pi-session-context.git",
-      "updatedAt": "2026-09-30",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "pi-coding-agent"
       ],
       "verified": true
     },
